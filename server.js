@@ -6,6 +6,11 @@ const app = express();
 //DATABASE
 connectDB();
 
+// MIDDLEWARE
+app.use(express.json({
+  extended: false
+}));
+
 app.get('/', (req, res) => res.send('API Running'));
 
 // ROUTES
