@@ -8,7 +8,7 @@ A social network app for developers built with with Node.js, Express, React, Red
 
 - Extensive API testing with Postman
 
-- ntegrating React with our backend in an elegant way, creating a great workflow
+- Integrating React with our backend in an elegant way, creating a great workflow
 
 - Building our frontend to work with the API
 
