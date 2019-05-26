@@ -52,14 +52,14 @@ npm run build
 
 ## Built With
 
-- [Node.js](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Node.js](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - A NoSQL database program
 - [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling
 - [bcryptjs](https://github.com/dcodeIO/bcrypt.js/) - Password hashing
-- [JSON Web Tokens](https://jwt.io/) - A method for representing claims securely b/t two parties.
+- [JSON Web Tokens](https://jwt.io/) - A method for representing claims securely b/t two parties
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-- [Redux](https://redux.js.org/) - A predictable state container for JS apps.
+- [Redux](https://redux.js.org/) - A predictable state container for JS apps
 
 ## Acknowledgments
 
