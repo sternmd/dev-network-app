@@ -42,7 +42,7 @@ npm install
 cd client
 npm install
 
-# Run both Express & React from root
+# Locally run both Express server & React app from root
 npm run dev
 
 # Build for production
